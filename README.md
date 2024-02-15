@@ -1,8 +1,24 @@
-# React + Vite
+# React Router for Web Developer Bootcamp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sample code to be used with theory session.
 
-Currently, two official plugins are available:
+## Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Part 1: [Basic Usage](./src/part1-basics)
+2. Part 2: [Navigate Across Page](./src/part2-navigate-across-page)
+3. Part 3: [Nested Layout](./src/part3-nested-layout)
+4. Part 4: [Dynamic Routing](./src/part4-dynamic-routing)
+
+## Usage
+
+```
+# clone repository and jump in
+git clone https://github.com/Skooldio/React-router-for-bootcamp-1
+cd React-router-for-bootcamp-1
+
+# install dependencies
+npm install
+
+# start development server
+npm run dev
+```
